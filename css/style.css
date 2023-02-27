@@ -1,5 +1,5 @@
 body {
-  background-image: url('imagenes/fondoClaro.png');
+  background-image: url('imagenes/FondoClaro.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
@@ -8,7 +8,7 @@ body {
 }
 
 nav {
-  background-image: url('imagenes/fondoClaro.png');
+  background-image: url('imagenes/FondoClaro.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
